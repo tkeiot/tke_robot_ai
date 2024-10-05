@@ -1,0 +1,22 @@
+{
+    "clients": [
+        {
+            "client_id": "client1",
+            "subscribe_topic": "topic/1",
+            "publish_topic": "topic/1/response"
+           
+        },
+        {
+            "client_id": "client2",
+            "subscribe_topic": "topic/2",
+            "publish_topic": "topic/2/response"
+            
+        },
+        {
+            "client_id": "client3",
+            "subscribe_topic": "topic/3",
+            "publish_topic": "topic/3/response"
+            
+        }
+    ]
+}
